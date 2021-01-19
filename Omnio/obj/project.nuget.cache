@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "B14bY1VadhcUVR3uZ4qFQwR5NqBdZKamGkloNVYAfJhAktUdf6qLTFg1176aCcCTgRufPKvkQZ5vF/SYRjwtjw==",
+  "success": true,
+  "projectFilePath": "D:\\Rupendra\\Omnio\\Omnio\\Omnio.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nidhi\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

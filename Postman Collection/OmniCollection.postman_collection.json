@@ -1,0 +1,52 @@
+{
+	"info": {
+		"_postman_id": "ebeda283-cc0c-4d0c-8f07-a85f63ab2dec",
+		"name": "OmniCollection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://localhost:44360/omnijson/UpdateScore/Jane/20",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44360/omnijson/UpdateScore/Jane/20",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44360",
+					"path": [
+						"omnijson",
+						"UpdateScore",
+						"Jane",
+						"20"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:44360/omnijson/score/10",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44360/omnijson/score/10",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44360",
+					"path": [
+						"omnijson",
+						"score",
+						"10"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
